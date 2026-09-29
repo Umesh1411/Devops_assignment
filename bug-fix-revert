@@ -1,0 +1,27 @@
+$ curl -s -H "Authorization: token <TOKEN>" \
+  https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11866
+
+{
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/11866",
+  "number": 11866,
+  "state": "open",
+  "title": "Fix typo: revert copyright year change",
+  "head": {
+    "label": "Umesh1411:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "Umesh1411/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/Umesh1411/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "fork": false
+    }
+  }
+}

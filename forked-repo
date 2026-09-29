@@ -1,0 +1,18 @@
+$ curl -s -H "Authorization: token <TOKEN>" \
+  https://api.github.com/repos/Umesh1411/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "full_name": "Umesh1411/mcino-Introduction-to-Git-and-GitHub",
+  "html_url": "https://github.com/Umesh1411/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  }
+}
