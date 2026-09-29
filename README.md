@@ -41,8 +41,8 @@ Where:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Umesh1411/Devops_assignment.git
-   cd Devops_assignment
+   git clone https://github.com/Umesh1411/github-final-project.git
+   cd github-final-project
    ```
 
 2. Make the script executable (if not already):
@@ -82,7 +82,7 @@ Simple Interest: 1000
 ## Project Structure
 
 ```
-Devops_assignment/
+github-final-project/
 ├── README.md            # Project documentation
 ├── LICENSE              # Apache License 2.0
 ├── CODE_OF_CONDUCT.md   # Contributor code of conduct
